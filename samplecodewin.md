@@ -17,3 +17,4 @@ if "%OS%"=="Windows_NT" (
     ./application
 )
 ```
+Note: Be sure to replace the "https://example.com/application" URL in the script with the actual URL of the application you want to download and execute
